@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%26+Python+Engineer;AI+%26+Automation+Specialist;Building+Blockchain+%26+AI+Solutions;Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=800&height=100&color=f75c7e&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
 # **🚀 Phyo Han Kyaw**
-### **Python & AI Engineer | Full Stack & Blockchain Developer | Technical writer**
+### **Senior Full Stack Developer | Python & AI Engineer | Technical writer**
 *Transforming complex technology into impactful automation solutions*
 
 <!-- [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://atharvashah.com)

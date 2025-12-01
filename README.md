@@ -122,8 +122,7 @@ I'm **experienced Full Stack Developer** with 8+ years of building robust, maint
 
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighnessAtharva&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=HighnessAtharva&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats"/>
+  
 </div>
 
 <div align="center">

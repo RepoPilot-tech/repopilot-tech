@@ -122,11 +122,11 @@ I'm **experienced Full Stack Developer** with 8+ years of building robust, maint
 
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  
+   <img height="180em" src="https://streak-stats.demolab.com/?user=HighnessAtharva&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HighnessAtharva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+ 
 </div>
 
 ---

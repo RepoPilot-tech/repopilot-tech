@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%26+Python+Engineer;AI+%26+Automation+Specialist;Building+Blockchain+%26+AI+Solutions;Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=800&height=100&color=f75c7e&vCenter=true&pause=1000&size=22)](https://github.com/RepoPilot-tech/repopilot-tech/README.md)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%26+Python+Engineer;AI+%26+Automation+Specialist;Building+Blockchain+%26+AI+Solutions;Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=800&height=100&color=f75c7e&vCenter=true&pause=1000&size=22)](https://github.com/RepoPilot-tech/repopilot-tech/blob/main/README.md)
 
 # **🚀 Phyo Han Kyaw**
 ### **Senior Full Stack Developer | Python & AI Engineer | Technical writer**
@@ -20,9 +20,7 @@
 
 ## **💡 About Me**
 
-I'm a **Senior Full-Stack & AI Engineering Leader** with 8+ years of experience driving the design, development, and delivery of large-scale web platforms and AI-powered digital products across multiple business sectors. Combines deep full-stack engineering expertise with advanced **AI/LLM integration** to architect intelligent, scalable, and highimpact solutions.
-Proven track record in leading **cross-functional engineering teams**, **setting technical strategy**, **optimizing system architectures**, and establishing best practices for highperformance, secure, and maintainable software. 
-Adept at **aligning engineering initiatives** with business objectives, accelerating product velocity, and transforming complex requirements into robust, production-ready platforms.
+I'm **experienced Full Stack Developer** with 8+ years of building robust, maintainable, and user-focused web applications. Skilled in **modern frameworks, clean architecture, and solving complex technical challenges**. Brings **strong engineering fundamentals, attention to detail, and a passion** for adopting emerging technologies. A collaborative team player committed to delivering **high-quality solutions** that drive product and business success.
 
 **🔥 Current Focus:**
 - Building scalable **APIs** and **automation pipelines**

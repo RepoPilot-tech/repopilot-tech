@@ -1,6 +1,7 @@
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Senior+Full+Stack+Developer;Python+%26+AI+Engineer;Building+AI+Solutions;Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=800&height=100&color=f75c7e&vCenter=true&pause=1000&size=22)]
+(https://git.io/typing-svg)
 
 # **🚀 Phyo Han Kyaw**
 ### **Senior Full Stack Developer | Python & AI Engineer | Technical writer**

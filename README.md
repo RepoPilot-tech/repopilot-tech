@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%26+Python+Engineer;AI+%26+Automation+Specialist;Building+Blockchain+%26+AI+Solutions;Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=800&height=100&color=f75c7e&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%26+Python+Engineer;AI+%26+Automation+Specialist;Building+Blockchain+%26+AI+Solutions;Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=800&height=100&color=f75c7e&vCenter=true&pause=1000&size=22)](https://github.com/RepoPilot-tech/RepoPilot-tech/README.md)
 
 # **🚀 Phyo Han Kyaw**
 ### **Senior Full Stack Developer | Python & AI Engineer | Technical writer**
@@ -20,7 +20,9 @@
 
 ## **💡 About Me**
 
-I'm a **Developer Advocate** and **Python Engineer** specializing in **AI & Automation**, with a passion for building scalable SaaS solutions. As a **Freelance Python Specialist** for TutorialsPoint, I've created comprehensive tutorials on Pandas, NumPy, Matplotlib, Flask, and Django, while building **8+ production SaaS projects**.
+I'm a **Senior Full-Stack & AI Engineering Leader** with 8 years of experience driving the design, development, and delivery of large-scale web platforms and AI-powered digital products across multiple business sectors. Combines deep full-stack engineering expertise with advanced **AI/LLM integration** to architect intelligent, scalable, and highimpact solutions.
+Proven track record in leading **cross-functional engineering teams**, **setting technical strategy**, **optimizing system architectures**, and establishing best practices for highperformance, secure, and maintainable software. 
+Adept at **aligning engineering initiatives** with business objectives, accelerating product velocity, and transforming complex requirements into robust, production-ready platforms.
 
 **🔥 Current Focus:**
 - Building scalable **APIs** and **automation pipelines**

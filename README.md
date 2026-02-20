@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+%26+Python+Engineer;AI+%26+Automation+Specialist;Building+Blockchain+%26+AI+Solutions;Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=800&height=100&color=f75c7e&vCenter=true&pause=1000&size=22)](https://github.com/RepoPilot-tech/repopilot-tech/blob/main/README.md)
 
-# **🚀 Phyo Han Kyaw**
+# **🚀 Let's learn together**
 ### **Senior Full Stack Developer | Python & AI Engineer | Technical writer**
 *Transforming complex technology into impactful automation solutions*
 
@@ -140,8 +140,8 @@ I'm **experienced Full Stack Developer** with 8+ years of building robust, maint
 
 I'm always open to discussing **automation solutions**, **API architecture**, **AI implementations**, and **content collaboration** opportunities.
 
-**📧 Reach Out:** [phyohank573@gmail.com](mailto:phyohank573@gmail.com)  
-**🌐 Explore:** [phyohan.com](https://phyohan.netlify.app/) 
+**📧 Reach Out:** [arthurkurby@gmail.com](mailto:arthurkurby@gmail.com)  
+**🌐 Explore:** [arthurkurbyai.vercel.app](https://arthurkurbyai.vercel.app/) 
 
 ---
 

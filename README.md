@@ -140,9 +140,6 @@ I'm **experienced Full Stack Developer** with 8+ years of building robust, maint
 
 I'm always open to discussing **automation solutions**, **API architecture**, **AI implementations**, and **content collaboration** opportunities.
 
-**📧 Reach Out:** [arthurkurby@gmail.com](mailto:arthurkurby@gmail.com)  
-**🌐 Explore:** [arthurkurbyai.vercel.app](https://arthurkurbyai.vercel.app/) 
-
 ---
 
 *"Building scalable solutions that turn complex problems into automated success stories"*
